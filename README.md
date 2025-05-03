@@ -7,7 +7,7 @@ This project demonstrates an end-to-end security scenario using Kali Linux (atta
 - **Phase 2**: Log analysis with Splunk SIEM
 - **Phase 3**: Defense using Fail2Ban and result validation
 
-## Team:
+## Team #9:
 - ALASMREI, BASIM ABDULLAH (202154710)
 - KADASAH, BASIM FAISAL (202025240)
 
